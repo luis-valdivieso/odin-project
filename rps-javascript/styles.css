@@ -1,0 +1,46 @@
+body{
+  padding: 150px 20px;
+  font-family: serif;
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+}
+
+h1{
+  align-self: center;
+}
+
+.results{
+  font-size:32px;
+  padding: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+button{
+  font-size: 32px;
+  padding: 10px;
+}
+
+.selection{
+  font-size: 32px;
+  padding:50px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.start-button{
+  align-self: center;
+}
+
+.result-display{
+  font-size: 32px;
+  padding: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
